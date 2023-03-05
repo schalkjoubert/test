@@ -1,6 +1,6 @@
 ---
 
-title: Title of the post
+title: Changelog Test
 menu_order: 1
 post_status: publish
 post_excerpt: This is a post excerpt
@@ -19,4 +19,4 @@ custom_fields:
 
 ## My post content
 
-Lorem ipsum dolor sit amet, consec
+Lorem ipsum dolor sit amet, consectte
