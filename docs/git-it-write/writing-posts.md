@@ -11,7 +11,7 @@ This document itself is written using the plugin. You can see [this repository](
 
 ## Supported file formats.
 
-Right now only "markdown" files `.md` are supported by the plugin. Please refer [markdown guide](https://www.markdownguide.org/basic-syntax/) page for more information on markdown and the syntax.
+Right now only "markdown" files `.md` are supported by the plugin. Please refer [markdown guide](https://www.markdownguide.org/basic-syntax/) page for more information on markdown and the syntax.....
 
 ## File name
 
