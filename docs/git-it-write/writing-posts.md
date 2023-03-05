@@ -5,7 +5,7 @@ taxonomy:
     doc_category: wordpress-plugins
 ---
 
-With Git it write plugin you can write your WordPress posts in markdown format at the comfort of your favorite IDE.
+With Git it write plugin you can write your WordPress posts in markdown format at the comfort of your favorite IDE..
 
 This document itself is written using the plugin. You can see [this repository](https://github.com/vaakash/aakash-web/tree/master/docs) for reference.
 
