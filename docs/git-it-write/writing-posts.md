@@ -9,7 +9,7 @@ With Git it write plugin you can write your WordPress posts in markdown format a
 
 This document itself is written using the plugin. You can see [this repository](https://github.com/vaakash/aakash-web/tree/master/docs) for reference.
 
-## Supported file formats
+## Supported file formats.
 
 Right now only "markdown" files `.md` are supported by the plugin. Please refer [markdown guide](https://www.markdownguide.org/basic-syntax/) page for more information on markdown and the syntax.
 
